@@ -2,16 +2,17 @@
   "by_difficulty": {
     "Easy": 2,
     "Hard": 2,
-    "Medium": 0
+    "Medium": 1
   },
   "handle": "ajaws1999",
   "problems": [
     "embeddings.vectors.1",
     "finetuning.lora-quantization.4",
     "finetuning.mini-project.3",
-    "ml-production.monitoring.2"
+    "ml-production.monitoring.2",
+    "ml-trees.splits.3"
   ],
-  "solved": 4,
+  "solved": 5,
   "topics": [
     {
       "solved": 0,
@@ -147,7 +148,7 @@
       "track": "ml"
     },
     {
-      "solved": 0,
+      "solved": 1,
       "step": 6,
       "title": "Trees & ensembles",
       "total": 45,

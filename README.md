@@ -1,6 +1,6 @@
 # MyTokenFlow progress: ajaws1999
 
-Solved **4** of 1120 problems (Easy 2, Medium 0, Hard 2).
+Solved **5** of 1120 problems (Easy 2, Medium 1, Hard 2).
 
 | Step | Topic | Solved |
 |---|---|---|
@@ -23,7 +23,7 @@ Solved **4** of 1120 problems (Easy 2, Medium 0, Hard 2).
 | ML 3 | Linear models from scratch | 0/45 |
 | ML 4 | Evaluating models | 0/45 |
 | ML 5 | Feature engineering & pipelines | 0/45 |
-| ML 6 | Trees & ensembles | 0/45 |
+| ML 6 | Trees & ensembles | 1/45 |
 | ML 7 | Clustering, PCA & recommenders | 0/45 |
 | ML 8 | Neural networks from scratch | 0/45 |
 | ML 9 | Deep learning architectures | 0/45 |
