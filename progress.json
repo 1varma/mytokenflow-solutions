@@ -2,7 +2,7 @@
   "by_difficulty": {
     "Easy": 16,
     "Hard": 2,
-    "Medium": 4
+    "Medium": 5
   },
   "handle": "ajaws1999",
   "problems": [
@@ -10,6 +10,7 @@
     "finetuning.lora-quantization.4",
     "finetuning.mini-project.3",
     "llms.tokens.1",
+    "llms.tokens.7",
     "ml-production.monitoring.2",
     "ml-trees.splits.3",
     "python-api.files-json.8",
@@ -29,7 +30,7 @@
     "python-basics.strings.7",
     "python-basics.strings.8"
   ],
-  "solved": 22,
+  "solved": 23,
   "topics": [
     {
       "solved": 13,
@@ -46,7 +47,7 @@
       "track": "ai"
     },
     {
-      "solved": 1,
+      "solved": 2,
       "step": 2,
       "title": "LLMs",
       "total": 60,
