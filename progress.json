@@ -1,6 +1,6 @@
 {
   "by_difficulty": {
-    "Easy": 5,
+    "Easy": 6,
     "Hard": 2,
     "Medium": 1
   },
@@ -13,12 +13,13 @@
     "ml-trees.splits.3",
     "python-basics.strings.1",
     "python-basics.strings.2",
-    "python-basics.strings.3"
+    "python-basics.strings.3",
+    "python-basics.strings.4"
   ],
-  "solved": 8,
+  "solved": 9,
   "topics": [
     {
-      "solved": 3,
+      "solved": 4,
       "step": 0,
       "title": "Python Foundations",
       "total": 60,
