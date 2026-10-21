@@ -1,6 +1,6 @@
 {
   "by_difficulty": {
-    "Easy": 15,
+    "Easy": 16,
     "Hard": 2,
     "Medium": 4
   },
@@ -9,6 +9,7 @@
     "embeddings.vectors.1",
     "finetuning.lora-quantization.4",
     "finetuning.mini-project.3",
+    "llms.tokens.1",
     "ml-production.monitoring.2",
     "ml-trees.splits.3",
     "python-api.files-json.8",
@@ -28,7 +29,7 @@
     "python-basics.strings.7",
     "python-basics.strings.8"
   ],
-  "solved": 21,
+  "solved": 22,
   "topics": [
     {
       "solved": 13,
@@ -45,7 +46,7 @@
       "track": "ai"
     },
     {
-      "solved": 0,
+      "solved": 1,
       "step": 2,
       "title": "LLMs",
       "total": 60,
