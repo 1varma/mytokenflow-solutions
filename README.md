@@ -1,10 +1,10 @@
 # MyTokenFlow progress: ajaws1999
 
-Solved **6** of 1120 problems (Easy 3, Medium 1, Hard 2).
+Solved **7** of 1120 problems (Easy 4, Medium 1, Hard 2).
 
 | Step | Topic | Solved |
 |---|---|---|
-| 0 | Python Foundations | 1/60 |
+| 0 | Python Foundations | 2/60 |
 | 1 | Python + APIs | 0/55 |
 | 2 | LLMs | 0/60 |
 | 3 | Embeddings | 1/40 |

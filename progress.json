@@ -1,6 +1,6 @@
 {
   "by_difficulty": {
-    "Easy": 3,
+    "Easy": 4,
     "Hard": 2,
     "Medium": 1
   },
@@ -11,12 +11,13 @@
     "finetuning.mini-project.3",
     "ml-production.monitoring.2",
     "ml-trees.splits.3",
-    "python-basics.strings.1"
+    "python-basics.strings.1",
+    "python-basics.strings.2"
   ],
-  "solved": 6,
+  "solved": 7,
   "topics": [
     {
-      "solved": 1,
+      "solved": 2,
       "step": 0,
       "title": "Python Foundations",
       "total": 60,
