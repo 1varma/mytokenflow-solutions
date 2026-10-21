@@ -1,6 +1,6 @@
 {
   "by_difficulty": {
-    "Easy": 6,
+    "Easy": 7,
     "Hard": 2,
     "Medium": 1
   },
@@ -14,12 +14,13 @@
     "python-basics.strings.1",
     "python-basics.strings.2",
     "python-basics.strings.3",
-    "python-basics.strings.4"
+    "python-basics.strings.4",
+    "python-basics.strings.5"
   ],
-  "solved": 9,
+  "solved": 10,
   "topics": [
     {
-      "solved": 4,
+      "solved": 5,
       "step": 0,
       "title": "Python Foundations",
       "total": 60,
