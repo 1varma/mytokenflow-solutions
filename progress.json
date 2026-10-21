@@ -2,7 +2,7 @@
   "by_difficulty": {
     "Easy": 13,
     "Hard": 2,
-    "Medium": 3
+    "Medium": 4
   },
   "handle": "ajaws1999",
   "problems": [
@@ -11,6 +11,7 @@
     "finetuning.mini-project.3",
     "ml-production.monitoring.2",
     "ml-trees.splits.3",
+    "python-api.files-json.8",
     "python-basics.control-flow.1",
     "python-basics.control-flow.2",
     "python-basics.control-flow.3",
@@ -25,7 +26,7 @@
     "python-basics.strings.7",
     "python-basics.strings.8"
   ],
-  "solved": 18,
+  "solved": 19,
   "topics": [
     {
       "solved": 13,
@@ -35,7 +36,7 @@
       "track": "ai"
     },
     {
-      "solved": 0,
+      "solved": 1,
       "step": 1,
       "title": "Python + APIs",
       "total": 55,
