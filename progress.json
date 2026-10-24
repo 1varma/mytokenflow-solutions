@@ -1,92 +1,69 @@
 {
   "by_difficulty": {
-    "Easy": 16,
-    "Hard": 3,
-    "Medium": 5
+    "Easy": 1,
+    "Hard": 0,
+    "Medium": 0
   },
   "handle": "ajaws1999",
   "problems": [
-    "embeddings.vectors.1",
-    "finetuning.lora-quantization.4",
-    "finetuning.mini-project.3",
-    "llms.tokens.1",
-    "llms.tokens.7",
-    "llms.tokens.8",
-    "ml-production.monitoring.2",
-    "ml-trees.splits.3",
-    "python-api.files-json.8",
-    "python-api.http-json.1",
-    "python-api.http-json.2",
-    "python-basics.control-flow.1",
-    "python-basics.control-flow.2",
-    "python-basics.control-flow.3",
-    "python-basics.control-flow.4",
-    "python-basics.control-flow.5",
-    "python-basics.strings.1",
-    "python-basics.strings.2",
-    "python-basics.strings.3",
-    "python-basics.strings.4",
-    "python-basics.strings.5",
-    "python-basics.strings.6",
-    "python-basics.strings.7",
-    "python-basics.strings.8"
+    "ml-production.monitoring.1"
   ],
-  "solved": 24,
+  "solved": 1,
   "topics": [
     {
-      "solved": 13,
+      "solved": 0,
       "step": 0,
       "title": "Python Foundations",
-      "total": 60,
+      "total": 56,
       "track": "ai"
     },
     {
-      "solved": 3,
+      "solved": 0,
       "step": 1,
       "title": "Python + APIs",
-      "total": 55,
+      "total": 49,
       "track": "ai"
     },
     {
-      "solved": 3,
+      "solved": 0,
       "step": 2,
       "title": "LLMs",
-      "total": 60,
+      "total": 53,
       "track": "ai"
     },
     {
-      "solved": 1,
+      "solved": 0,
       "step": 3,
       "title": "Embeddings",
-      "total": 40,
+      "total": 36,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 4,
       "title": "Vector DBs + RAG",
-      "total": 60,
+      "total": 54,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 5,
       "title": "AI Agents",
-      "total": 50,
+      "total": 44,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 6,
       "title": "LangGraph + MCP",
-      "total": 45,
+      "total": 40,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 7,
       "title": "FastAPI",
-      "total": 40,
+      "total": 36,
       "track": "ai"
     },
     {
@@ -100,14 +77,14 @@
       "solved": 0,
       "step": 9,
       "title": "Deployment",
-      "total": 40,
+      "total": 35,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 10,
       "title": "Eval & Observability",
-      "total": 50,
+      "total": 45,
       "track": "ai"
     },
     {
@@ -118,96 +95,96 @@
       "track": "ai"
     },
     {
-      "solved": 2,
+      "solved": 0,
       "step": 12,
       "title": "Fine-tuning & Datasets",
-      "total": 25,
+      "total": 22,
       "track": "ai"
     },
     {
       "solved": 0,
       "step": 0,
       "title": "NumPy for ML",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 1,
       "title": "Data wrangling for ML",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 2,
       "title": "Probability & statistics",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 3,
       "title": "Linear models from scratch",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 4,
       "title": "Evaluating models",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 5,
       "title": "Feature engineering & pipelines",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
-      "solved": 1,
+      "solved": 0,
       "step": 6,
       "title": "Trees & ensembles",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 7,
       "title": "Clustering, PCA & recommenders",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 8,
       "title": "Neural networks from scratch",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 9,
       "title": "Deep learning architectures",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 0,
       "step": 10,
       "title": "Training pipelines & MLOps",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     },
     {
       "solved": 1,
       "step": 11,
       "title": "Monitoring & ML system design",
-      "total": 45,
+      "total": 39,
       "track": "ml"
     }
   ],
-  "total": 1120
+  "total": 993
 }
